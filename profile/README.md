@@ -10,7 +10,6 @@ We believe software should solve real problems, encourage collaboration, and hel
 
 - **Open Source Development** — Build and maintain useful software projects.
 - **Web Development** — Explore modern technologies and practical application development.
-- **Learning Resources** — Organize resources that help developers learn independently.
 - **Community Collaboration** — Share knowledge, exchange ideas, and welcome contributions.
 
 ## Featured Projects
@@ -22,7 +21,7 @@ We believe software should solve real problems, encourage collaboration, and hel
 
 ## Technologies
 
-Java . JavaScript · Node.js · Git · GitHub · Web Technologies
+Bootstrap . React . TypeScript . JavaScript · Node.js · Git · GitHub · Web Technologies
 
 ## Get Involved
 
@@ -41,6 +40,6 @@ Please follow each project's contribution guidelines before submitting changes.
 
 ---
 
-**DevSoft-LK** · Software Development from Lanka
+**DevSoft-LK** · Software Development from Sri Lanka
 
 [GitHub Organization](https://github.com/DevSoft-LK) · [Community](https://github.com/DevSoft-LK/community)
