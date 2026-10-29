@@ -16,7 +16,7 @@ We believe software should solve real problems, encourage collaboration, and hel
 
 | Project | Description |
 |---|---|
-| [Folder Organizer](https://github.com/DevSoft-LK/folder-organizer) | A Node.js CLI tool that organizes files into folders by file type. |
+| [Folder Organizer](https://github.com/DevSoft-LK/folder-organizer) | A React Desktop App that organizes files into folders by file type. |
 | [Community](https://github.com/DevSoft-LK/community) | The central space for announcements, questions, suggestions, and discussions. |
 
 ## Technologies
